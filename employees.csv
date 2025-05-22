@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,PerformanceScore,Salary,JoiningDate,Age
+1,Alice Johnson,Engineering,8,85000,2016-04-15,32
+2,Bob Smith,Marketing,6,60000,2019-07-23,28
+3,Charlie Davis,Engineering,7,90000,2015-09-01,35
+4,Diana Ross,HR,9,72000,2014-12-11,40
+5,Edward King,Engineering,5,88000,2020-01-20,29
+6,Fiona White,Finance,7,75000,2017-05-05,34
+7,George Hill,Engineering,9,92000,2013-06-17,45
+8,Hannah Lee,Marketing,8,61000,2018-03-10,31
+9,Ian Moore,HR,6,70000,2016-11-30,38
+10,Jane Brown,Finance,8,78000,2012-08-24,42
